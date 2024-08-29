@@ -12,7 +12,7 @@ const Login = () => {
   return (
     <div className='bg-black max-w-[1440px] h-screen m-auto text-white  flex flex-col justify-between'>
         <div className=" w-full h-16 flex justify-center items-center border border-slate-800">
-            <img src="https://s3-alpha-sig.figma.com/img/37f3/2626/1680d9613629542a2474f79f92f7c022?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ExDHJzIbIg-VW1nGMW3-eJ9CNLPdVNSVMokBbJOrtIVi3755XAtardu7TqGztt-n-RC5O0cas5OrR3ngwBiJuftHiaFSgyVuOCkPU~eD09ktGTpihJfYaAfTAA1C-jcizylPTzk7hAuLKZSa4weUTCqU3ZQHeHxOtPyKg2fTGjmBCtMF7qfnWQM1YtUxs5s-lTn6QaGFVvB6UchGHf7Z2SwWdfRfYmBOwM9oXRGbfaHALEXuM2XcFGEk3aTx1HVxNIwgnXGqgjMul5~bo2~gommPavsKripEo5HVO-W-nEFyu5Dy7BHh0afOYCF1i9N39mgcz9k89cmrwUA2rxP~MA__" alt="reachinbox-logo" className="h-7" />
+            <img src="https://media.licdn.com/dms/image/D560BAQEmo1aZIhVtlQ/company-logo_200_200/0/1700158687336/reachinbox_ai_logo?e=2147483647&v=beta&t=2eGcwWsFtdBcUVJGGHkBxWHYFN86D-c5zfyr4s3DsNw" alt="reachinbox-logo" className="h-7" />
         </div>
         <div className='w-full  flex justify-center items-center '>
             <div className=' m-auto w-[460px] h-auto md:h-[312px]  bg-[#111214] rounded-2xl border border-gray-700  py-6  px-10 '>
